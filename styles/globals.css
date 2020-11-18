@@ -1,0 +1,25 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  
+    box-sizing: border-box;
+}
+
+.heading{
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+
+.text{
+
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    
+}
