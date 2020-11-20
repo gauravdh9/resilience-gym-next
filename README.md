@@ -1,3 +1,7 @@
+## Resilience Gym Website 
+
+A gym website created using MERN(STACK). and [Next.js](https://nextjs.org/) framework RESILIENCE isn't just a gym its future of Indian Fitness
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
