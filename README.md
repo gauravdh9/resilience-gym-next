@@ -4,6 +4,14 @@ A gym website created using MERN(STACK). and [Next.js](https://nextjs.org/) fram
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Screenshots
+
+<p align="center">
+<img src="readmeassets/Screenshot from 2020-11-02 19-46-56.png" width="100%" hspace="2">
+<img src="readmeassets/Screenshot from 2020-11-02 19-46-10.png" width="100%" hspace="2">
+<img src="readmeassets/Screenshot from 2020-11-02 19-46-32.png" width="100%" hspace="2">
+</p>
+
 ## Getting Started
 
 First, run the development server:
